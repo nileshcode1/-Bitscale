@@ -45,3 +45,6 @@ const PricingPlans = () => {
 };
 
 export default PricingPlans;
+
+
+//This is assignment
