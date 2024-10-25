@@ -47,4 +47,4 @@ const PricingPlans = () => {
 export default PricingPlans;
 
 
-//This is assignment
+//This is assignment update
